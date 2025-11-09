@@ -1,0 +1,1 @@
+This is a placeholder. Run `python3 make_sample_pdf.py` to generate `sample_file.pdf`.
